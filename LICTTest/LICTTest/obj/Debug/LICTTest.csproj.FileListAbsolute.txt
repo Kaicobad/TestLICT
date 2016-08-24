@@ -1,0 +1,6 @@
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\bin\Debug\LICTTest.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\bin\Debug\LICTTest.exe
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\bin\Debug\LICTTest.pdb
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\obj\Debug\LICTTest.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\obj\Debug\LICTTest.exe
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest\LICTTest\obj\Debug\LICTTest.pdb

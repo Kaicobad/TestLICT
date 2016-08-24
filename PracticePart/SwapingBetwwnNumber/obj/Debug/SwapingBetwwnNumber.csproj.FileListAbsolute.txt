@@ -1,0 +1,6 @@
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\bin\Debug\SwapingBetwwnNumber.exe.config
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\bin\Debug\SwapingBetwwnNumber.exe
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\bin\Debug\SwapingBetwwnNumber.pdb
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\obj\Debug\SwapingBetwwnNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\obj\Debug\SwapingBetwwnNumber.exe
+C:\Users\Dark\documents\visual studio 2013\Projects\PracticePart\SwapingBetwwnNumber\obj\Debug\SwapingBetwwnNumber.pdb

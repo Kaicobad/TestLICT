@@ -1,0 +1,6 @@
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\bin\Debug\Practice5.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\bin\Debug\Practice5.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\bin\Debug\Practice5.pdb
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\obj\Debug\Practice5.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\obj\Debug\Practice5.pdb
+c:\users\dark\documents\visual studio 2013\Projects\Practice5\Practice5\obj\Debug\Practice5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\bin\Debug\PracticePart.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\bin\Debug\PracticePart.exe
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\bin\Debug\PracticePart.pdb
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\obj\Debug\PracticePart.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\obj\Debug\PracticePart.exe
+c:\users\dark\documents\visual studio 2013\Projects\PracticePart\PracticePart\obj\Debug\PracticePart.pdb

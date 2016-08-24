@@ -1,0 +1,6 @@
+c:\users\dark\documents\visual studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\bin\Debug\ArmstromgNumber.exe.config
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\bin\Debug\ArmstromgNumber.exe
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\bin\Debug\ArmstromgNumber.pdb
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\obj\Debug\ArmstromgNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\obj\Debug\ArmstromgNumber.exe
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\ArmstromgNumber\ArmstromgNumber\obj\Debug\ArmstromgNumber.pdb

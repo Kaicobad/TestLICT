@@ -1,0 +1,8 @@
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\bin\Debug\Practice4.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\bin\Debug\Practice4.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\bin\Debug\Practice4.pdb
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\obj\Debug\Practice4.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\obj\Debug\Practice4.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\obj\Debug\Practice4.pdb
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\bin\Debug\Newtonsoft.Json.dll
+c:\users\dark\documents\visual studio 2013\Projects\Practice4\Practice4\bin\Debug\Newtonsoft.Json.xml

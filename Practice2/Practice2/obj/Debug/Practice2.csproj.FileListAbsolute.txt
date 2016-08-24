@@ -1,0 +1,5 @@
+c:\users\dark\documents\visual studio 2013\Projects\Practice2\Practice2\bin\Debug\Practice2.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\Practice2\Practice2\bin\Debug\Practice2.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice2\Practice2\bin\Debug\Practice2.pdb
+c:\users\dark\documents\visual studio 2013\Projects\Practice2\Practice2\obj\Debug\Practice2.exe
+c:\users\dark\documents\visual studio 2013\Projects\Practice2\Practice2\obj\Debug\Practice2.pdb

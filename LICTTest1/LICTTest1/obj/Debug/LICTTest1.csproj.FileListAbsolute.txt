@@ -1,0 +1,8 @@
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\bin\Debug\LICTTest1.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\bin\Debug\LICTTest1.exe
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\bin\Debug\LICTTest1.pdb
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\obj\Debug\LICTTest1.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\obj\Debug\LICTTest1.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\obj\Debug\LICTTest1.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\obj\Debug\LICTTest1.exe
+c:\users\dark\documents\visual studio 2013\Projects\LICTTest1\LICTTest1\obj\Debug\LICTTest1.pdb

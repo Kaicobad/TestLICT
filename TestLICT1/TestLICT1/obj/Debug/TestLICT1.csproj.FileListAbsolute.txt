@@ -1,0 +1,9 @@
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\bin\Debug\TestLICT1.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\bin\Debug\TestLICT1.exe
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\bin\Debug\TestLICT1.pdb
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.FrmMain.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.exe
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT1\TestLICT1\obj\Debug\TestLICT1.pdb
